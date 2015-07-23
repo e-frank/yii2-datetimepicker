@@ -1,6 +1,6 @@
 {
     "name":        "e-frank/yii2-datetimepicker",
-    "description": "AssetBundle for momentjs",
+    "description": "AssetBundle for bootstrap datetimepicker",
     "keywords":    ["yii2", "javascript", "bootstrap", "datepicker", "datetimepicker", "timepicker"],
     "type":        "yii2-extension",
     "license":     "BSD-3-Clause",
