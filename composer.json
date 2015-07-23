@@ -1,0 +1,19 @@
+{
+    "name":        "e-frank/yii2-datetimepicker",
+    "description": "AssetBundle for momentjs",
+    "keywords":    ["yii2", "javascript", "bootstrap", "datepicker", "datetimepicker", "timepicker"],
+    "type":        "yii2-extension",
+    "license":     "BSD-3-Clause",
+    "authors": [
+        {
+            "name":     "Elmar Frank",
+            "homepage": "http://yii.efrank.at/extension/datetimepicker"
+        }
+    ],
+    "require": {
+        "eonasdan/bootstrap-datetimepicker":  "*"
+    },
+    "autoload": {
+        "psr-4": { "x1\\datetimepicker\\": "" }
+    }
+}
